@@ -10,3 +10,10 @@ Upgrades
     *moreEarnings
         name: Make more earnings!
         desc: Increases your earnings by 1.2%!
+CSS
+  #game
+  {
+    background:cornflowerblue;
+    font-family:"Times New Roman",Times,serif;
+    color:black;
+  }
