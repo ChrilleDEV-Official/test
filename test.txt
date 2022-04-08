@@ -1,0 +1,20 @@
+Let's make a game!
+    name: Idle Farm Clicker
+
+Resources
+    *wheatSeed
+        name: Wheat Seed
+        desc: A seed for planting Wheat!
+
+Upgrades
+    *moreEarnings
+        name: Make more earnings!
+        desc: Increases your earnings by 1.2%!
+        
+CSS
+  #game
+  {
+    background:cornflowerblue;
+    font-family:"Times New Roman",Times,serif;
+    color:black;
+  }
